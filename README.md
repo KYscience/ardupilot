@@ -1,3 +1,13 @@
+# KYPlane Flying System Project by KYscience
+This project is built by KYscience.
+The basic codes is Ardupilot or PX4.
+Team is doing a lot of research to built a plane flying system.
+This system will be stronger and more stable than basic codes.
+These codes can used on APM,Px4,Pixhawk and so many boards.
+Also,you can visit our website and look for something new.
+
+<a href="https://kyuan.net"><img src="https://kyuan.net/wp-content/uploads/2021/02/1613002429-logodi-150x150.png" alt="Discord">
+
 # ArduPilot Project
 
 <a href="https://ardupilot.org/discord"><img src="https://img.shields.io/discord/674039678562861068.svg" alt="Discord">

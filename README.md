@@ -24,11 +24,10 @@ Also,you can visit our website and look for something new.
 
 [![Autotest Status](https://autotest.ardupilot.org/autotest-badge.svg)](https://autotest.ardupilot.org/)
 
-Ardupilot is the most advanced, full-featured and reliable open source autopilot software available. It has
-been under development since 2010 by a diverse team of professional engineers, computer scientists and community contributors.
-Our autopilot software is capable of controlling almost any vehicle system imaginable, from conventional
-airplanes, quadplanes, multirotors, and helicopters, to rovers, boats, balancebots and even submarines. It is continually being expanded to provide
-support for new emerging vehicle types.
+ArduPilot is the most advanced, full-featured and reliable open source autopilot software available.
+It has been under development since 2010 by a diverse team of professional engineers, computer scientists and community contributors.
+Our autopilot software is capable of controlling almost any vehicle system imaginable, from conventional airplanes, quad planes, multi-rotors, and helicopters to rovers, boats, balance bots and even submarines.
+It is continually being expanded to provide support for new emerging vehicle types.
 
 ## The ArduPilot project is made up of: ##
 
@@ -96,7 +95,7 @@ for reviewing patches on their specific area.
 
 - [Andrew Tridgell](https://github.com/tridge):
   - ***Vehicle***: Plane, AntennaTracker
-  - ***Board***: APM1, APM2, Pixhawk, Pixhawk2, PixRacer
+  - ***Board***: Pixhawk, Pixhawk2, PixRacer
 - [Francisco Ferreira](https://github.com/oxinarf):
   - ***Bug Master***
 - [Grant Morphett](https://github.com/gmorph):
